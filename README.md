@@ -17,7 +17,7 @@ Gained knowledge on windows OS, Antivirus, Windows registry.
 
 - Virtual machine - Builted a Ubuntu VM
 - Metaspoilt framework - Used this framework and created a malware
-- Windows VM - Dowloaded the malware in windows to understand malware
+- Windows VM - Dowloaded the malware in windows to understand 
 
 ## Steps
 Dowloaded metaspolt framework for creation of malware( I didn't captured all screenshots ). I created malware in metaspolt with multi handler and exploited it with correct configurations.
